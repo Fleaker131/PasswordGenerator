@@ -1,3 +1,3 @@
-"# PasswordGenerator" 
-Max Lenght : 40
+Random Password Generator
 
+Created by Fleaker131
